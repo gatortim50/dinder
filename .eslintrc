@@ -1,0 +1,34 @@
+{
+  "extends": ["airbnb", "plugin:flowtype/recommended"],
+  "plugins": ["flowtype"],
+  "rules": {
+    "react/no-did-update-set-state": 0,
+    "guard-for-in": 0,
+    "indent": 0,
+    "no-restricted-syntax": 0,
+    "import/imports-first": 0,
+    "arrow-parens": 0,
+    "no-underscore-dangle": 0,
+    "react/jsx-filename-extension": 0,
+    "react/prefer-stateless-function": 0,
+    "no-use-before-define": 0,
+    "new-cap": 0,
+    "no-plusplus": 0,
+    "camelcase": 0,
+    "import/prefer-default-export": 0,
+    "react/prop-types": 0,
+    "consistent-return": 0,
+    "no-else-return": 0,
+    "global-require": 0,
+    "react/no-unescaped-entities": 0,
+    "react/no-did-mount-set-state": 0,
+    "no-console": 0,
+    "react/sort-comp": 0,
+    "arrow-body-style": 0,
+    "operator-assignment": 0,
+    "semi": "off"
+  },
+  "env": {
+    "jest": true
+  }
+}
