@@ -1,5 +1,6 @@
 # dinder
-Updated/based on Lynda.com React Native Building Mobile Apps
+
+Tinder for Dinner
 
 ## Install
 
